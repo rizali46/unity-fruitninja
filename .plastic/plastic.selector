@@ -1,0 +1,4 @@
+repository "unity-fruitninja/unity-fruitninja@18967457659965@cloud"
+  path "/"
+    br "/main"
+    co "/main"
